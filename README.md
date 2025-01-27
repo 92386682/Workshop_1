@@ -1,9 +1,10 @@
 # Workshop_1
 https://92386682.github.io/Workshop_1/
-# Workshop 0: Start Writing Code
-Create a p5.js editorLinks to an external site. login and sign up to the Processing Foundation's forumLinks to an external site..
-Make a p5.js sketch using 2D primitive shapes, variables, and conditionals. Make sure to save your work.
-Experiment with at least one of the following 2D primitive shapes from the p5.js documentationLinks to an external site.: line, triangle, quad, arc.
+
+Workshop 1: Coding Fundamentals
+Make a p5.js sketch using 2D primitive shapes, loops, and random numbers.
+Write your own functions and make calls to these functions in your code.
+Experiment with at least one new item from the from the p5.js documentationLinks to an external site..
 Keep notes to clearly document your process and learning.
 
 Mandalla effect with variable angles and contributing circles, made using the translate, rotate and randomise function.
